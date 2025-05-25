@@ -6,10 +6,10 @@
 - 💞️ **Open Source Contribution**: Actively looking to contribute to open source organizations
 
 ## Skills
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: Node.js, Express, Django
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Postman
+- **Languages**: C++, JavaScript, Python, Java, PHP, C, TypeScript
+- **Frameworks**: Node.js, Express, Django, React.js, Angular.js, Next.js
+- **Databases**: MongoDB, PostgreSQL, MySQL, Redis, Neo4j, 
+- **Tools**: Git, Docker, Postman, AWS, OpenAI
 
 ## Coding Profiles
 - [LeetCode](https://leetcode.com/u/abhyudaysingh1729/) - Knight | [CodeForces](https://codeforces.com/profile/Abhyuday_Singh) - Specialist | [CodeChef](https://www.codechef.com/users/abhyuday_24) - 3 Star
