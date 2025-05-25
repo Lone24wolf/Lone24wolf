@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @Lone24wolf
-- 👀 I’m interested in web development and all sorts of software development
-- 🌱 I’m currently doing backend development with AI integration 
-- 💞️ I’m looking to contribute in an open source organisation 
-- 📫 Contact me here - abhyudaysingh1729@gmail.com
+# 👋 Hi, I’m @Lone24wolf
 
+## About Me
+- 👀 **Interests**: Web development and various aspects of software development
+- 🌱 **Current Focus**: Backend development with AI integration
+- 💞️ **Open Source Contribution**: Actively looking to contribute to open source organizations
 
+## Skills
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: Node.js, Express, Django
+- **Databases**: MongoDB, PostgreSQL
+- **Tools**: Git, Docker, Postman
+
+## Coding Profiles
+- [LeetCode](https://leetcode.com/u/abhyudaysingh1729/) - Knight | [CodeForces](https://codeforces.com/profile/Abhyuday_Singh) - Specialist | [CodeChef](https://www.codechef.com/users/abhyuday_24) - 3 Star
+
+## Contact Me
+📫 Reach out at: [abhyudaysingh1729@gmail.com](mailto:abhyudaysingh1729@gmail.com)
+
+## Social Links
+- [LinkedIn](https://www.linkedin.com/in/abhyuday-singh-77ba60257/) | [Portfolio](https://portfolio-red-six-29.vercel.app/)
