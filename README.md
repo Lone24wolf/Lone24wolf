@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Lone24wolf
-
+A pre final year at IIIT Jabalpur pursuing B.tech in CSE
 ## About Me
 - 👀 **Interests**: Web development and various aspects of software development
 - 🌱 **Current Focus**: Backend development with AI integration
